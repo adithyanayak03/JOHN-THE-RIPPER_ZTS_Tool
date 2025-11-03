@@ -65,4 +65,4 @@ If you prefer Colab, add your notebook in `notebooks/` and link to it here:
 - Tune Argon2 parameters for your environment.
 
 ## License
-MIT — see `LICENSE`.
+This project is for educational purpose as part of a Zero Trust Security Assignment. Feel free to use it — see `LICENSE`.
